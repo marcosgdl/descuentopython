@@ -1,3 +1,2 @@
 # descuentopython
-Programa muy sencillo que nos ayuda a iniciar un proyecto en el cual el usuario ingrese una cantidad y le regrese un resultado con un descuento
-para python
+Programa muy sencillo que nos ayuda a iniciar un proyecto en el cual el usuario ingresa el costo de un producto y el programa regresa un resultado con un descuento del 15% en python.
